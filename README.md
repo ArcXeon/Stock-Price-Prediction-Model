@@ -28,7 +28,7 @@ After training the model is used to make predictions on the test set and unscale
 
 # Results
 After training and evaluation the model give the following results-  
-ARIMA - MAE: 1.5146
+ARIMA - MAE: 1.5146  
 LSTM - MAE: 27.7485
 
 
