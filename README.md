@@ -27,8 +27,8 @@ The LSTM model is implemented with two LSTM layers followed by a Dense layer. Th
 After training the model is used to make predictions on the test set and unscale the forecasted values. The model is then evaluated using Mean Absolute Error.
 
 # Results
-After training and evaluation the model give the following results-
-ARIMA - MAE:1.5146
-LSTM - MAE:27.7485
+After training and evaluation the model give the following results-  
+ARIMA - MAE: 1.5146
+LSTM - MAE: 27.7485
 
 
